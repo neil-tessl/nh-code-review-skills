@@ -1,6 +1,6 @@
 ---
 name: code-review
-description: Perform thorough code reviews focusing on correctness, readability, and security.
+description: Perform thorough code reviews focusing on correctness, readability, security, and maintainability.
 ---
 
 # Code Review
